@@ -1,2 +1,2 @@
-# Proton/Gemini AI CEP
+# Proton/LLM CEP
  
